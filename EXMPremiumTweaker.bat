@@ -1,9 +1,6 @@
 @shift /0
 @echo off
 Set Version=0.95
-:: Open Discord server link first
-start https://discord.gg/P5QJGD2EEA
-timeout /t 2 /nobreak >nul
 ::Enable RP
 Reg.exe delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\SystemRestore" /v "RPSessionInterval" /f  >nul 2>&1
 Reg.exe delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\SystemRestore" /v "DisableConfig" /f >nul 2>&1
