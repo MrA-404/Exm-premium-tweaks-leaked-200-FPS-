@@ -1,6 +1,3 @@
-Here’s a polished **GitHub-ready `README.md`** version of your draft. I formatted it with proper Markdown structure, code blocks, and clean spacing so it looks professional when uploaded:
-
-
 # EXM Premium Tweaker
 
 **Version:** 0.95  
