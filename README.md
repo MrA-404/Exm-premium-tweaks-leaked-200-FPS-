@@ -186,7 +186,7 @@ This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for
 
 ## Credits
 
-* Created by **[@mrs](https://github.com/MrA-404)**
+* Created by **[@mra](https://github.com/MrA-404)**
 * Special Thanks: **@tulantro** for Fortnite optimization help
 * Community: [https://github.com/MrA-404](https://github.com/MrA-404)
 
